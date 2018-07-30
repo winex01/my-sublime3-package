@@ -3,10 +3,10 @@ list of my sublime text 3 package that i used often. for recording purposes only
 
 
 
-•Bootstrap 3 autocomplete - webchum
-•Bootstrap 3 snippets - jasonMortonNZ
-•JavaScript Completions - pichillilorenzo
-•JavaScript Snippets  - jprichardson
-•jQuery - sublimetext
-•jQuery Snippets Pack - aaronpowell
-•PHP Snippets - gerardroche
+•Bootstrap 3 autocomplete - webchum <br>
+•Bootstrap 3 snippets - jasonMortonNZ <br>
+•JavaScript Completions - pichillilorenzo <br>
+•JavaScript Snippets  - jprichardson <br>
+•jQuery - sublimetext <br>
+•jQuery Snippets Pack - aaronpowell <br>
+•PHP Snippets - gerardroche <br>
