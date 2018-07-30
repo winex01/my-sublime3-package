@@ -1,5 +1,6 @@
 # my-sublime3-package
-list of my sublime text 3 package that i used often. for recording purposes only(i only included the important ones).
+list of my sublime text 3 package that i used often.  <br>
+for recording purposes only(i only included the important ones). <br> <br>
 
 
 
