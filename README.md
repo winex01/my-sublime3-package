@@ -12,14 +12,14 @@ for recording purposes only(i only included the important ones). <br> <br>
 •jQuery Snippets Pack - aaronpowell <br>
 •PHP Snippets - gerardroche <br>
 
-•"Bootstrap 3 Autocomplete",
-•"Bootstrap 3 Snippets",
-•"JavaScript Completions",
-•"JavaScript Snippets",
-•"jQuery",
-•"jQuery Snippets pack",
-•"Laravel Blade AutoComplete",
-•"Laravel Blade Highlighter",
-•"Material Theme",
-•"Package Control",
+•"Bootstrap 3 Autocomplete", <br>
+•"Bootstrap 3 Snippets", <br>
+•"JavaScript Completions", <br>
+•"JavaScript Snippets", <br> 
+•"jQuery", <br>
+•"jQuery Snippets pack", <br> 
+•"Laravel Blade AutoComplete", <br>
+•"Laravel Blade Highlighter", <br>
+•"Material Theme", <br>
+•"Package Control", <br>
 •"PHPSnippets"
