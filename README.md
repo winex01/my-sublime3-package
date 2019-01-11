@@ -11,3 +11,15 @@ for recording purposes only(i only included the important ones). <br> <br>
 •jQuery - sublimetext <br>
 •jQuery Snippets Pack - aaronpowell <br>
 •PHP Snippets - gerardroche <br>
+
+•"Bootstrap 3 Autocomplete",
+•"Bootstrap 3 Snippets",
+•"JavaScript Completions",
+•"JavaScript Snippets",
+•"jQuery",
+•"jQuery Snippets pack",
+•"Laravel Blade AutoComplete",
+•"Laravel Blade Highlighter",
+•"Material Theme",
+•"Package Control",
+•"PHPSnippets"
