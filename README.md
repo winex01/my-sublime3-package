@@ -22,4 +22,9 @@ for recording purposes only(i only included the important ones). <br> <br>
 •"Laravel Blade Highlighter", <br>
 •"Material Theme", <br>
 •"Package Control", <br>
-•"PHPSnippets"
+•"PHPSnippets", <br>
+
+<br>
+<br>
+
+•PHP Companion <br>
