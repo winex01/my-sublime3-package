@@ -28,3 +28,5 @@ for recording purposes only(i only included the important ones). <br> <br>
 <br>
 
 •PHP Companion <br>
+SublimeLinter-annotations <br>
+
