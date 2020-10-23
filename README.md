@@ -29,5 +29,5 @@ for recording purposes only(i only included the important ones). <br> <br>
 
 •PHP Companion <br>
 SublimeLinter-annotations <br>
-PHPDoc - comment block
-
+PHPDoc - comment block <br>
+PHPGrammar <br>
