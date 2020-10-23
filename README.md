@@ -31,3 +31,5 @@ for recording purposes only(i only included the important ones). <br> <br>
 SublimeLinter-annotations <br>
 PHPDoc - comment block <br>
 PHPGrammar <br>
+Sublime​Linter-php <br>
+
