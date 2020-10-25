@@ -63,41 +63,42 @@ terminus settings
         },
 	],
 	"256color": true,
-    "theme": "user",
-    "user_theme_colors":
-    {
-            "00": "#555757",
-            "01": "#ef2323",
-            "02": "#40e234",
-            "03": "#fce94f",
-            "04": "#729fcf",
-            "05": "#ad7fa8",
-            "06": "#34e2e2",
-            "07": "#dddddd",
-            "08": "#080808",
-            "09": "#c03232",
-            "10": "#4e9a06",
-            "11": "#c4a000",
-            "12": "#3465a4",
-            "13": "#75507b",
-            "14": "#06989a",
-            "15": "#bbbbbb",
-            "background": "#0f1a23",
-            "caret": "#2bd932",
-            "foreground": "#d3d7cf",
-            "selection": "#224477",
-            "selection_foreground": "#dddddd"
-    },
-    "view_settings":
-    {
-            "caret_style": "blink",
-            "font_face": "Input",
-            "font_size": 12,
-            "line_padding_bottom": -1,
-            "line_padding_top": -1,
-            "rulers": [80],
-            "scroll_past_end": false
-    }
+	"unix_term": "xterm-256color",
+    	"theme": "user",
+    	"user_theme_colors":
+	{
+	    "00": "#555757",
+	    "01": "#ef2323",
+	    "02": "#40e234",
+	    "03": "#fce94f",
+	    "04": "#729fcf",
+	    "05": "#ad7fa8",
+	    "06": "#34e2e2",
+	    "07": "#dddddd",
+	    "08": "#080808",
+	    "09": "#c03232",
+	    "10": "#4e9a06",
+	    "11": "#c4a000",
+	    "12": "#3465a4",
+	    "13": "#75507b",
+	    "14": "#06989a",
+	    "15": "#bbbbbb",
+	    "background": "#0f1a23",
+	    "caret": "#2bd932",
+	    "foreground": "#d3d7cf",
+	    "selection": "#224477",
+	    "selection_foreground": "#dddddd"
+	},
+    	"view_settings":
+	{
+	    "caret_style": "blink",
+	    "font_face": "Input",
+	    "font_size": 12,
+	    "line_padding_bottom": -1,
+	    "line_padding_top": -1,
+	    "rulers": [80],
+	    "scroll_past_end": false
+	}
 }
 
 
