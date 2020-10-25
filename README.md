@@ -32,4 +32,4 @@ SublimeLinter-annotations <br>
 PHPDoc - comment block <br>
 PHPGrammar <br>
 Sublime​Linter-php <br>
-
+Terminus, TerminalView <br>
