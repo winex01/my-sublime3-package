@@ -34,6 +34,7 @@ PHPGrammar <br>
 Sublime​Linter-php <br>
 Terminus, TerminalView <br>
 
+```
 [
  	{
         "keys": ["ctrl+`"], "command": "toggle_terminus_panel", "args": {
@@ -46,4 +47,4 @@ Terminus, TerminalView <br>
         }
     },	
 ]
-
+```
