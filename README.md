@@ -33,3 +33,17 @@ PHPDoc - comment block <br>
 PHPGrammar <br>
 Sublime​Linter-php <br>
 Terminus, TerminalView <br>
+
+[
+ 	{
+        "keys": ["ctrl+`"], "command": "toggle_terminus_panel", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    },
+    {
+        "keys": ["ctrl+shift+`"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    },	
+]
+
