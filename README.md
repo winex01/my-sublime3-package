@@ -33,6 +33,7 @@ PHPDoc - comment block <br>
 PHPGrammar <br>
 Sublime​Linter-php <br>
 Terminus, TerminalView <br>
+AlignTab <br>
 
 terminus key binds
 ```
